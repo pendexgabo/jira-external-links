@@ -12,12 +12,10 @@
         "run_at": "document_end"
     }],
     "permissions": [
-        "storage",
         "tabs",
         "https://*.atlassian.net/*"
     ],
     "version": "6.0.0.0",
 
-    "manifest_version": 2,
-    "options_page": "options.html"
+    "manifest_version": 2
 }
