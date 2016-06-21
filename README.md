@@ -1,7 +1,7 @@
 # Jira External Links Opener
 
 
-Minimal Extension that help Jira Cloud users to have  external links opened another tab to don't loose the current Jira navigation.
+Minimal Extension that help Jira Cloud users to haveexternal links opened another tab to prevent loosing the current Jira navigation.
 
 
 ## Versions
