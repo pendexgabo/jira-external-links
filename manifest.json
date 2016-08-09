@@ -1,6 +1,6 @@
 {
     "name": "Jira External Links Opener",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Minimal Extension that help Jira Cloud users to have  external links opened another tab to don't loose the current Jira navigation.",
     "content_scripts": [{
         "matches": ["https://*.atlassian.net/*"],

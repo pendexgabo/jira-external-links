@@ -6,6 +6,9 @@ Minimal Extension that help Jira Cloud users to haveexternal links opened anothe
 
 ## Versions
 
+0.0.2
+  - con document ready event.
+
 0.0.1
   - just the basics.
 
